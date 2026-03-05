@@ -116,7 +116,7 @@ Hover Text:    #F8F5F0 — Panit (Skin)
 
 Accent
 1:  #4A7D36 — Chocolate Hills in Rainy Season 
-Alt: 
+Alt: #9B5B80 — Lipstick (Lipstick)
 Alt Complement: 
 
 Contrast
@@ -126,7 +126,7 @@ Contrast
 4 Subtle Text: #CCCCCC — Kaulanon (About to rain)
 
 Base
-1 Subtle Background:  #D4B896 — Buhok (Hair)
+1 Subtle Background:  #F8F5F0 — Panit (Skin)
 2 Lighter Background: #F8F5F0 — Panit (Skin)
 3 White or Off-white: #E9DCC8 — Init (Warm)
 
