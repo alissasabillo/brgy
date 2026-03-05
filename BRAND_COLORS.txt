@@ -108,4 +108,6 @@ Buttons
 #FFE5B4 — Dayang (Lady)
 #9B7E5A — Tarsier (Type of marsupial)
 
-
+Menu
+Text:    #6B5541 — Chocolate Hills in Summer Season
+Hover Text:    #F8F5F0 — Panit (Skin)
