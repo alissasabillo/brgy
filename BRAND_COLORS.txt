@@ -1,0 +1,190 @@
+════════════════════════════════════════════════════════════════════
+ALISSA SABILLO BRAND COLORS — BISAYA THEMED (COMPLETE FINAL)
+════════════════════════════════════════════════════════════════════
+
+All themes with chosen Bulawan accents.
+Balanced, harmonious, authentic, ready to use.
+
+
+════════════════════════════════════════════════════════════════════
+NEUTRALS THEME — "USA"
+════════════════════════════════════════════════════════════════════
+Clarity, clean, honest foundation
+
+#F9F9F9 — Limpyo (Clean)
+#E8E8E8 — Uban (Grey hair)
+#CCCCCC — Kaulanon (About to rain)
+#888888 — Taligsik (Rain shower)
+#4A4A4A — Ngitngit (Dark/Darkness)
+
+Accent: #FFE5B4 — Dayang (Lady) - Warm, approachable
+
+
+════════════════════════════════════════════════════════════════════
+BROWN THEME — "PANDESAL"
+════════════════════════════════════════════════════════════════════
+Warmth, cozy, home - WARM BROWN tones
+
+#F8F5F0 — Panit (Skin)
+#E9DCC8 — Init (Warm)
+#D4B896 — Buhok (Hair)
+#9B7E5A — Tarsier (Type of marsupial)
+#6B5541 — Chocolate Hills in Summer Season
+
+Accent: #D4A43A — Ibu (Mother, goddess) - Sophisticated warmth
+
+
+════════════════════════════════════════════════════════════════════
+GREEN THEME — "LUNHAW"
+════════════════════════════════════════════════════════════════════
+Growth, fresh, alive
+
+#EDF4E6 — Lab-as (Fresh)
+#D8ECCC — Sagbot (Grass)
+#A8D975 — Luntian (Green)
+#6FB649 — Lasang (Forest in Bisaya)
+#4A7D36 — Chocolate Hills in Rainy Season
+
+Accent: #F0C857 — Hara (Queen) - Bright, energetic
+
+
+════════════════════════════════════════════════════════════════════
+PINK THEME — "PUWA"
+════════════════════════════════════════════════════════════════════
+Creative, personal, memorable
+
+#F5EDF2 — Aping (Cheek)
+#EDD5E5 — Ngabil (Lip)
+#E5B8D5 — Santan (Santan flower)
+#C583A8 — Rosas (Rose)
+#9B5B80 — Lipstick (Lipstick)
+
+Accent: #D4A43A — Ibu (Mother, goddess) - Elegant, luxe
+
+
+════════════════════════════════════════════════════════════════════
+BLUE THEME — "ASUL"
+════════════════════════════════════════════════════════════════════
+Trust, calm, reliable
+
+#ECEFF7 — Bughaw (Blue)
+#D9E6F0 — Langit (Sky)
+#A8C8E1 — Bawod (Waves)
+#6B9FCD — Tubig (Water)
+#4A7BA8 — Lalom (Deep)
+
+Accent: #FFF4E0 — Ginto (Gold) - Warm, approachable trust
+
+
+════════════════════════════════════════════════════════════════════
+GOLD THEME — "BULAWAN"
+════════════════════════════════════════════════════════════════════
+Glow, energy, attention, shine - BRIGHT GOLDEN YELLOW tones
+
+#FFFBF0 — Perlas (Pearl)
+#FFF4E0 — Ginto (Gold)
+#FFE5B4 — Dayang (Lady)
+#F0C857 — Hara (Queen)
+#D4A43A — Ibu (Mother, goddess)
+
+Accent: Self - Bulawan IS the accent when used in other themes
+
+
+════════════════════════════════════════════════════════════════════
+ACCENT SUMMARY
+════════════════════════════════════════════════════════════════════
+
+USA         → Dayang #FFE5B4      (Warm, friendly clarity)
+PANDESAL    → Ibu #D4A43A         (Sophisticated warmth)
+LUNHAW      → Hara #F0C857        (Bright, energetic growth)
+PUWA        → Ibu #D4A43A         (Elegant, creative luxury)
+ASUL        → Ginto #FFF4E0       (Warm, trustworthy calm)
+BULAWAN     → Self                (Pure glowing energy)
+
+
+════════════════════════════════════════════════════════════════════
+PAGES WITH THEME NAMES
+════════════════════════════════════════════════════════════════════
+
+MAP HOTSPOT STRUCTURE (10 dots total):
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+  ❁  START
+  ── PANDESAL Theme + Ibu accent
+
+  ❦  SABILLOFOLIO         ┐
+  ── PUWA + USA Theme      │
+     (Ibu + Dayang)        │  HUB cluster
+                           │
+  ❦  ALISSAFOLIO          │
+  ── LUNHAW + USA Theme    │
+     (Hara + Dayang)       │
+                           │
+  ☙  ALL SOLUTIONS        │
+  ── PUWA + PANDESAL Theme │
+     (Ibu accents)         │
+                           │
+  ✿  ALISSA'S OFFICE      ┘
+  ── PANDESAL + LUNHAW + PUWA + ASUL + USA Theme (All accents)
+
+  ❀  ALISSATOPIA
+  ── LUNHAW + PUWA + ASUL + PANDESAL Theme (Mixed accents)
+
+  ❧  SARI-SARI STORES
+  ── ASUL + PANDESAL Theme (Ginto + Ibu accents)
+
+  ✾  COMMUNITY            ┐
+  ── LUNHAW + PANDESAL     │  Community cluster
+     (Hara + Ibu)          │
+                           │
+  ✾  RESOURCES            │
+  ── LUNHAW + PANDESAL     │
+     (Hara + Ibu)          │
+                           │
+  ✾  PLAY                 ┘
+  ── LUNHAW + PANDESAL
+     (Hara + Ibu)
+
+· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
+
+TOP NAV GROUPINGS (handled by platform):
+  MAP → Start
+  WORK → Sabillofolio, Alissafolio, All Solutions, Alissa's Office
+  ALISSATOPIA → Alissatopia
+  SARI-SARI → Sari-Sari Stores
+  COMMUNITY → Blog, Events + Presence, Donations, Resources, Play
+
+
+════════════════════════════════════════════════════════════════════
+COLOR PALETTE QUICK REFERENCE
+════════════════════════════════════════════════════════════════════
+
+USA (Neutrals):
+  #F9F9F9 Limpyo | #E8E8E8 Uban | #CCCCCC Kaulanon |
+  #888888 Taligsik | #4A4A4A Ngitngit
+  🌟 #FFE5B4 Dayang
+
+PANDESAL (Brown):
+  #F8F5F0 Panit | #E9DCC8 Init | #D4B896 Buhok |
+  #9B7E5A Tarsier | #6B5541 Chocolate Hills Summer
+  🌟 #D4A43A Ibu
+
+LUNHAW (Green):
+  #EDF4E6 Lab-as | #D8ECCC Sagbot | #A8D975 Luntian |
+  #6FB649 Lasang | #4A7D36 Chocolate Hills Rainy
+  🌟 #F0C857 Hara
+
+PUWA (Pink):
+  #F5EDF2 Aping | #EDD5E5 Ngabil | #E5B8D5 Santan |
+  #C583A8 Rosas | #9B5B80 Lipstick
+  🌟 #D4A43A Ibu
+
+ASUL (Blue):
+  #ECEFF7 Bughaw | #D9E6F0 Langit | #A8C8E1 Bawod |
+  #6B9FCD Tubig | #4A7BA8 Lalom
+  🌟 #FFF4E0 Ginto
+
+BULAWAN (Gold):
+  #FFFBF0 Perlas | #FFF4E0 Ginto | #FFE5B4 Dayang |
+  #F0C857 Hara | #D4A43A Ibu
+  🌟 Self
