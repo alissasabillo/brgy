@@ -104,6 +104,8 @@ BULAWAN     → Self                (Pure glowing energy)
 
 ════════════════════════════════════════════════════════════════════
 
+KADENCE THEME WORDPRESS
+
 Buttons
 #FFE5B4 — Dayang (Lady)
 #9B7E5A — Tarsier (Type of marsupial)
@@ -111,3 +113,26 @@ Buttons
 Menu
 Text:    #6B5541 — Chocolate Hills in Summer Season
 Hover Text:    #F8F5F0 — Panit (Skin)
+
+Accent
+1:  #4A7D36 — Chocolate Hills in Rainy Season 
+Alt: 
+Alt Complement: 
+
+Contrast
+1 Strongest Text: #4A4A4A — Ngitngit (Dark/Darkness) 
+2 Strong Text: #4A4A4A — Ngitngit (Dark/Darkness) 
+3 Medium Text:  #6B5541 — Chocolate Hills in Summer Season
+4 Subtle Text: #CCCCCC — Kaulanon (About to rain)
+
+Base
+1 Subtle Background:  #D4B896 — Buhok (Hair)
+2 Lighter Background: #F8F5F0 — Panit (Skin)
+3 White or Off-white: #E9DCC8 — Init (Warm)
+
+Notices
+1 Success: 
+2 Info: 
+3 Alert: 
+4 Warning: 
+5 Rating: 
