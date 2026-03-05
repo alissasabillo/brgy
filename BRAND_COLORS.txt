@@ -128,7 +128,7 @@ Contrast
 Base
 1 Subtle Background:  #F8F5F0 — Panit (Skin)
 2 Lighter Background: #F8F5F0 — Panit (Skin)
-3 White or Off-white: #E9DCC8 — Init (Warm)
+3 White or Off-white: #F9F9F9 — Limpyo (Clean)
 
 Notices
 1 Success: 
