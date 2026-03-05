@@ -103,3 +103,9 @@ BULAWAN     → Self                (Pure glowing energy)
 
 
 ════════════════════════════════════════════════════════════════════
+
+Buttons
+#FFE5B4 — Dayang (Lady)
+#9B7E5A — Tarsier (Type of marsupial)
+
+
