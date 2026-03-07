@@ -108,6 +108,11 @@ KADENCE THEME WORDPRESS
 
 ════════════════════════════════════════════════════════════════════
 
+
+Header
+Header Background: #F8F5F0 — Panit (Skin)
+
+
 Header Menu
 Text:    #6B5541 — Chocolate Hills in Summer Season
 Hover Text:    #F8F5F0 — Panit (Skin)
@@ -120,11 +125,11 @@ Hover Color:  #F5EDF2 — Aping (Cheek)
 Primary and Secondary Navigation (Menu)
 Initial Color: #6B5541 — Chocolate Hills in Summer Season
 Hover Color: #4A7BA8 — Lalom (Deep)
-Active Color: #6B5541 — Chocolate Hills in Summer Season
+Active Color: #D4A43A — Ibu (Mother, goddess)
 Backgrounds
 Initial Background:  #E9DCC8 — Init (Warm)
 Hover Background:  #D9E6F0 — Langit (Sky)
-Active Background:  #E9DCC8 — Init (Warm)
+Active Background:   #FFF4E0 — Ginto (Gold)
 
 Header Search
 Initial Color:  #6B5541 — Chocolate Hills in Summer Season
@@ -134,7 +139,7 @@ Hover Background Color: #D9E6F0 — Langit (Sky)
 
 Modal Background (Search)
 Initial Color:  #6B5541 — Chocolate Hills in Summer Season
-Focus/Background Color: #6B5541 — Chocolate Hills in Summer Season
+Focus/Background Color: #D9E6F0 — Langit (Sky)
 Modal Background: #E9DCC8 — Init (Warm)
 
 ════════════════════════════════════════════════════════════════════
