@@ -1,0 +1,65 @@
+@import url(https://fonts.bunny.net/css?family=lexend:100,200,300,400,500,600,700,800,900|shantell-sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i);
+
+/* ── BODY & READING TEXT ── */
+body,
+p,
+li,
+td,
+blockquote,
+.wp-block-paragraph {
+    font-family: 'Lexend', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.6;
+}
+
+/* ── HEADINGS ── */
+h1 {
+    font-family: 'Shantell Sans', display;
+    font-size: 48px;
+    font-weight: 600;
+    font-style: normal;
+}
+h2 {
+    font-family: 'Shantell Sans', display;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: normal;
+}
+h3 {
+    font-family: 'Shantell Sans', display;
+    font-size: 32px;
+    font-weight: 600;
+    font-style: normal;
+}
+h4 {
+    font-family: 'Shantell Sans', display;
+    font-size: 26px;
+    font-weight: 600;
+    font-style: normal;
+}
+h5 {
+    font-family: 'Shantell Sans', display;
+    font-size: 22px;
+    font-weight: 600;
+    font-style: normal;
+}
+h6 {
+    font-family: 'Shantell Sans', display;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* ── NAVIGATION MENU ── */
+.main-navigation a,
+.nav--toggle-sub a,
+#site-navigation a,
+.kadence-navigation a,
+.primary-menu a,
+.primary-menu li a {
+    font-family: 'Shantell Sans', display;
+    font-weight: 600;
+    font-style: normal;
+}
