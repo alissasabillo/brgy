@@ -106,9 +106,7 @@ BULAWAN     → Self                (Pure glowing energy)
 
 KADENCE THEME WORDPRESS
 
-Buttons
-#FFE5B4 — Dayang (Lady)
-
+════════════════════════════════════════════════════════════════════
 
 Header Menu
 Text:    #6B5541 — Chocolate Hills in Summer Season
@@ -124,12 +122,27 @@ Initial Color: #6B5541 — Chocolate Hills in Summer Season
 Hover Color: #4A7BA8 — Lalom (Deep)
 Active Color: #6B5541 — Chocolate Hills in Summer Season
 
-Footer
-Text:   
-Hover Text:   
-Main Row BAckground:  #E9DCC8 — Init (Warm)
+════════════════════════════════════════════════════════════════════
 
-Footer Button
+Mobile NAvigation
+Initial Color: #6B5541 — Chocolate Hills in Summer Season
+Hover Color: #4A7BA8 — Lalom (Deep)
+Active Color: #6B5541 — Chocolate Hills in Summer Season
+Backgrounds
+Initial Background:  #F8F5F0 — Panit (Skin)
+Hover Background:  #D9E6F0 — Langit (Sky)
+Active Background:  #F8F5F0 — Panit (Skin)
+
+Header Off-Canvas Mobile
+Popup Background:  #F8F5F0 — Panit (Skin)
+Close Toggle Colors --
+Initial Colors: #6B5541 — Chocolate Hills in Summer Season
+Hover Color: #4A7BA8 — Lalom (Deep)
+Close Background Colors -- 
+Initial: #F8F5F0 — Panit (Skin)
+Hover: #F8F5F0 — Panit (Skin)
+
+Header Mobile Button
 Colors -- 
 Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
 Hover Color:  #4A7BA8 — Lalom (Deep)
@@ -139,6 +152,26 @@ Hover Color:  #D9E6F0 — Langit (Sky)
 Border Colors -- 
 Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
 Hover Color:  #4A7BA8 — Lalom (Deep)
+
+════════════════════════════════════════════════════════════════════
+
+Footer
+Text:   
+Hover Text:   
+Main Row BAckground:  #E9DCC8 — Init (Warm)
+
+Footer Button + Header Mobile Button
+Colors -- 
+Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
+Hover Color:  #4A7BA8 — Lalom (Deep)
+Background Colors --
+Initial Color:  #E9DCC8 — Init (Warm)
+Hover Color:  #D9E6F0 — Langit (Sky)
+Border Colors -- 
+Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
+Hover Color:  #4A7BA8 — Lalom (Deep)
+
+════════════════════════════════════════════════════════════════════
 
 Accent
 1:  #4A7D36 — Chocolate Hills in Rainy Season 
