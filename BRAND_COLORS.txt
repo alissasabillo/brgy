@@ -113,9 +113,9 @@ Text:    #6B5541 — Chocolate Hills in Summer Season
 Hover Text:    #F8F5F0 — Panit (Skin)
 Main Row BAckground:  #E9DCC8 — Init (Warm)
 
-Header Button
+Header Button (Choose Secondary Button Style)
 Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
-Hover Color:  #4A7BA8 — Lalom (Deep)
+Hover Color:  #F5EDF2 — Aping (Cheek)
 
 Primary and Secondary Navigation (Menu)
 Initial Color: #6B5541 — Chocolate Hills in Summer Season
