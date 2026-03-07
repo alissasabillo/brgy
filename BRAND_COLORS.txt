@@ -108,11 +108,37 @@ KADENCE THEME WORDPRESS
 
 Buttons
 #FFE5B4 — Dayang (Lady)
-#9B7E5A — Tarsier (Type of marsupial)
 
-Menu
+
+Header Menu
 Text:    #6B5541 — Chocolate Hills in Summer Season
 Hover Text:    #F8F5F0 — Panit (Skin)
+Main Row BAckground:  #E9DCC8 — Init (Warm)
+
+Header Button
+Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
+Hover Color:  #4A7BA8 — Lalom (Deep)
+
+Specific Navigtation Colors (Menu)
+Initial Color: #6B5541 — Chocolate Hills in Summer Season
+Hover Color: #4A7BA8 — Lalom (Deep)
+Active Color: #6B5541 — Chocolate Hills in Summer Season
+
+Footer
+Text:   
+Hover Text:   
+Main Row BAckground:  #E9DCC8 — Init (Warm)
+
+Footer Button
+Colors -- 
+Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
+Hover Color:  #4A7BA8 — Lalom (Deep)
+Background Colors --
+Initial Color:  #E9DCC8 — Init (Warm)
+Hover Color:  #D9E6F0 — Langit (Sky)
+Border Colors -- 
+Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
+Hover Color:  #4A7BA8 — Lalom (Deep)
 
 Accent
 1:  #4A7D36 — Chocolate Hills in Rainy Season 
