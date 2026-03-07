@@ -119,8 +119,11 @@ Hover Text:    #F8F5F0 — Panit (Skin)
 Main Row BAckground:  #E9DCC8 — Init (Warm)
 
 Header Button (Choose Secondary Button Style)
-Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
-Hover Color:  #F5EDF2 — Aping (Cheek)
+Initial Color:  #6B5541 — Chocolate Hills in Summer Season
+Hover Color:  #D9E6F0 — Langit (Sky)
+Borders
+Initial Colors: #4A7BA8 — Lalom (Deep)
+Hover colors: #4A7BA8 — Lalom (Deep)
 
 Primary and Secondary Navigation (Menu)
 Initial Color: #6B5541 — Chocolate Hills in Summer Season
@@ -205,7 +208,7 @@ Contrast
 4 Subtle Text: #CCCCCC — Kaulanon (About to rain)
 
 Base
-1 Subtle Background:  #F8F5F0 — Panit (Skin)
+1 Subtle Background:  #D9E6F0 — Langit (Sky)
 2 Lighter Background: #F8F5F0 — Panit (Skin)
 3 White or Off-white: #F9F9F9 — Limpyo (Clean)
 
