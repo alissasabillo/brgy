@@ -117,10 +117,25 @@ Header Button
 Initial Color:  #9B7E5A — Tarsier (Type of marsupial)
 Hover Color:  #4A7BA8 — Lalom (Deep)
 
-Specific Navigtation Colors (Menu)
+Primary and Secondary Navigation (Menu)
 Initial Color: #6B5541 — Chocolate Hills in Summer Season
 Hover Color: #4A7BA8 — Lalom (Deep)
 Active Color: #6B5541 — Chocolate Hills in Summer Season
+Backgrounds
+Initial Background:  #E9DCC8 — Init (Warm)
+Hover Background:  #D9E6F0 — Langit (Sky)
+Active Background:  #E9DCC8 — Init (Warm)
+
+Header Search
+Initial Color:  #6B5541 — Chocolate Hills in Summer Season
+Hover Color: #4A7BA8 — Lalom (Deep)
+Initial Background Color:  #E9DCC8 — Init (Warm)
+Hover Background Color: #D9E6F0 — Langit (Sky)
+
+Modal Background (Search)
+Initial Color:  #6B5541 — Chocolate Hills in Summer Season
+Focus/Background Color: #6B5541 — Chocolate Hills in Summer Season
+Modal Background: #E9DCC8 — Init (Warm)
 
 ════════════════════════════════════════════════════════════════════
 
@@ -129,18 +144,18 @@ Initial Color: #6B5541 — Chocolate Hills in Summer Season
 Hover Color: #4A7BA8 — Lalom (Deep)
 Active Color: #6B5541 — Chocolate Hills in Summer Season
 Backgrounds
-Initial Background:  #F8F5F0 — Panit (Skin)
+Initial Background:  #E9DCC8 — Init (Warm)
 Hover Background:  #D9E6F0 — Langit (Sky)
-Active Background:  #F8F5F0 — Panit (Skin)
+Active Background:  #E9DCC8 — Init (Warm)
 
 Header Off-Canvas Mobile
-Popup Background:  #F8F5F0 — Panit (Skin)
+Popup Background:  #E9DCC8 — Init (Warm)
 Close Toggle Colors --
 Initial Colors: #6B5541 — Chocolate Hills in Summer Season
 Hover Color: #4A7BA8 — Lalom (Deep)
 Close Background Colors -- 
-Initial: #F8F5F0 — Panit (Skin)
-Hover: #F8F5F0 — Panit (Skin)
+Initial: #E9DCC8 — Init (Warm)
+Hover:  #E9DCC8 — Init (Warm)
 
 Header Mobile Button
 Colors -- 
