@@ -135,6 +135,16 @@ Card Options
 Title Font Color:  #4A4A4A — Ngitngit (Dark/Darkness)
 Excerpt Font Color: #4A4A4A — Ngitngit (Dark/Darkness)
 Meta Font Color:  Initial:   #4A4A4A — Ngitngit (Dark/Darkness)    Hover:  #9B5B80 — Lipstick (Lipstick)
+Button Font Color:  Initial: #4A4A4A — Ngitngit (Dark/Darkness)    Hover:  #F8F5F0 — Panit (Skin)
+Button Color:   Initial:   #4A4A4A — Ngitngit (Dark/Darkness)   Hover:  #9B5B80 — Lipstick (Lipstick)
+Card Background Color:  #F8F5F0 — Panit (Skin)
+Card Border:  #4A4A4A — Ngitngit (Dark/Darkness)  
+
+CATEGORIES
+Card Options
+Title Font Color:  #4A4A4A — Ngitngit (Dark/Darkness) Hover:  #9B5B80 — Lipstick (Lipstick)
+Excerpt Font Color: #4A4A4A — Ngitngit (Dark/Darkness)
+Meta Font Color:  Initial:   #4A4A4A — Ngitngit (Dark/Darkness)    Hover:  #9B5B80 — Lipstick (Lipstick)
 
 Button Font Color:  Initial: #4A4A4A — Ngitngit (Dark/Darkness)    Hover:  #F8F5F0 — Panit (Skin)
 Button Color:   Initial:   #4A4A4A — Ngitngit (Dark/Darkness)   Hover:  #9B5B80 — Lipstick (Lipstick)
