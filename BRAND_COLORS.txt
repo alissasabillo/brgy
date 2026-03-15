@@ -142,6 +142,10 @@ SIDEBAR
 Design
 Background Color:  #D4B896 — Buhok (Hair)
 
+SCROLL TO TOP
+Icon:  Initial: #6B5541 — Chocolate Hills in Summer Season    Hover:   #E9DCC8 — Init (Warm)
+Shape Background Color:  Initial: #D4B896 — Buhok (Hair)    Hover:   #9B7E5A — Tarsier (Type of marsupial)
+
 BLOG POSTS
 Card Options
 Title Font Color:  #4A4A4A — Ngitngit (Dark/Darkness)
