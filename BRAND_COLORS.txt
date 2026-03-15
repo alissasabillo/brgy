@@ -99,12 +99,12 @@ BLOCKSY THEME WORDPRESS
 ════════════════════════════════════════════════════════════════════
 
 Global Palette
-Border / Color 1:  #F8F5F0 — Panit (Skin)
+Border / Color 1:  #6B5541 — Chocolate Hills in Summer Season
 Color 2: #9B5B80 — Lipstick (Lipstick)
 Color 3: #4A4A4A — Ngitngit (Dark/Darkness)
-4:       #9B7E5A — Tarsier (Type of marsupial)
-5: #4A7BA8 — Lalom (Deep)
-6: 
+Color 4:  #9B7E5A — Tarsier (Type of marsupial)
+Color 5: #4A7BA8 — Lalom (Deep)
+Color 6: 
 Color 7: #F8F5F0 — Panit (Skin)
 Color 8:   #E9DCC8 — Init (Warm)
 
@@ -128,6 +128,15 @@ Initial:   #E9DCC8 — Init (Warm)
 Hover:   #D4A43A — Ibu (Mother, goddess)
 Active:  #D4A43A — Ibu (Mother, goddess)
 Items Background Color:  #4A4A4A — Ngitngit (Dark/Darkness)
+
+HEADER BUTTON
+Label Tex Color: Initial: #E9DCC8 — Init (Warm)   Hover:  #F8F5F0 — Panit (Skin)
+Button Color:   Initial: #9B7E5A — Tarsier (Type of marsupial)   Hover:  #9B5B80 — Lipstick (Lipstick)
+
+FOOTER
+SOCIALS
+Icons:  initial: #E9DCC8 — Init (Warm)   Hover:  #E9DCC8 — Init (Warm)
+Icons Background Color:     Initial: #9B7E5A — Tarsier (Type of marsupial)    Hover:  #6B5541 — Chocolate Hills in Summer Season
 
 BLOG POSTS
 Card Options
