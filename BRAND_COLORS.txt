@@ -102,11 +102,11 @@ Global Palette
 Border / Color 1:  #F8F5F0 — Panit (Skin)
 Color 2: #9B5B80 — Lipstick (Lipstick)
 Color 3: #4A4A4A — Ngitngit (Dark/Darkness)
-4:   #6B5541 — Chocolate Hills in Summer Season
+4:       #9B7E5A — Tarsier (Type of marsupial)
 5: #4A7BA8 — Lalom (Deep)
 6: 
 Color 7: #F8F5F0 — Panit (Skin)
-Color 8:   #D4B896 — Buhok (Hair)
+Color 8:   #E9DCC8 — Init (Warm)
 
 
 GLOBAL COLORS
@@ -121,6 +121,26 @@ All Headings (h1 to h6)
 
 Site Background
 #F9F9F9 — Limpyo (Clean)
+
+MENU HEADER
+
+Dropdown Options
+Initial:   #E9DCC8 — Init (Warm)
+Hover:   #D4A43A — Ibu (Mother, goddess)
+Active:  #D4A43A — Ibu (Mother, goddess)
+Items Background Color:  #4A4A4A — Ngitngit (Dark/Darkness)
+
+BLOG POSTS
+Card Options
+Title Font Color:  #4A4A4A — Ngitngit (Dark/Darkness)
+Excerpt Font Color: #4A4A4A — Ngitngit (Dark/Darkness)
+Meta Font Color:  Initial:   #4A4A4A — Ngitngit (Dark/Darkness)    Hover:  #9B5B80 — Lipstick (Lipstick)
+
+Button Font Color:  Initial: #4A4A4A — Ngitngit (Dark/Darkness)    Hover:  #F8F5F0 — Panit (Skin)
+Button Color:   Initial:   #4A4A4A — Ngitngit (Dark/Darkness)   Hover:  #9B5B80 — Lipstick (Lipstick)
+Card Background Color:  #F8F5F0 — Panit (Skin)
+Card Border:  #4A4A4A — Ngitngit (Dark/Darkness)  
+
 
 
 ════════════════════════════════════════════════════════════════════
