@@ -90,16 +90,6 @@ Glow, energy, attention, shine - BRIGHT GOLDEN YELLOW tones
 Accent: Self - Bulawan IS the accent when used in other themes
 
 
-════════════════════════════════════════════════════════════════════
-ACCENT SUMMARY
-════════════════════════════════════════════════════════════════════
-
-USA         → Dayang #FFE5B4      (Warm, friendly clarity)
-PANDESAL    → Ibu #D4A43A         (Sophisticated warmth)
-LUNHAW      → Hara #F0C857        (Bright, energetic growth)
-PUWA        → Ibu #D4A43A         (Elegant, creative luxury)
-ASUL        → Ginto #FFF4E0       (Warm, trustworthy calm)
-BULAWAN     → Self                (Pure glowing energy)
 
 
 ════════════════════════════════════════════════════════════════════
@@ -109,18 +99,25 @@ BLOCKSY THEME WORDPRESS
 ════════════════════════════════════════════════════════════════════
 
 Global Palette
-Border / Color 1:  #6B5541 — Chocolate Hills in Summer Season
+Border / Color 1:  #F8F5F0 — Panit (Skin)
 Color 2: #9B5B80 — Lipstick (Lipstick)
 Color 3: #4A4A4A — Ngitngit (Dark/Darkness)
-4: 
-5: 
+4:   #6B5541 — Chocolate Hills in Summer Season
+5: #4A7BA8 — Lalom (Deep)
 6: 
-Color 7:  #E8E8E8 — Uban (Grey hair)
-Color 8:   #E9DCC8 — Init (Warm)
+Color 7: #F8F5F0 — Panit (Skin)
+Color 8:   #D4B896 — Buhok (Hair)
 
 
 GLOBAL COLORS
 Base Text:   #4A4A4A — Ngitngit (Dark/Darkness)
+Links:   Initial:  #4A4A4A — Ngitngit (Dark/Darkness)      Hover: #D4A43A — Ibu (Mother, goddess)
+Text Selection:   Text:  #4A4A4A — Ngitngit (Dark/Darkness)   Background:  #9B5B80 — Lipstick (Lipstick)
+Borders:  #4A7BA8 — Lalom (Deep
+
+All Headings (h1 to h6)
+#4A4A4A — Ngitngit (Dark/Darkness)
+
 
 Site Background
 #F9F9F9 — Limpyo (Clean)
