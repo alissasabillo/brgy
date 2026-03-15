@@ -104,6 +104,30 @@ BULAWAN     → Self                (Pure glowing energy)
 
 ════════════════════════════════════════════════════════════════════
 
+BLOCKSY THEME WORDPRESS
+
+════════════════════════════════════════════════════════════════════
+
+Global Palette
+Border / Color 1:  #6B5541 — Chocolate Hills in Summer Season
+Color 2: #9B5B80 — Lipstick (Lipstick)
+Color 3: #4A4A4A — Ngitngit (Dark/Darkness)
+4: 
+5: 
+6: 
+Color 7:  #E8E8E8 — Uban (Grey hair)
+Color 8:   #E9DCC8 — Init (Warm)
+
+
+GLOBAL COLORS
+Base Text:   #4A4A4A — Ngitngit (Dark/Darkness)
+
+Site Background
+#F9F9F9 — Limpyo (Clean)
+
+
+════════════════════════════════════════════════════════════════════
+
 KADENCE THEME WORDPRESS
 
 ════════════════════════════════════════════════════════════════════
