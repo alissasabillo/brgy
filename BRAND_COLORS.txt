@@ -104,7 +104,7 @@ Color 2: #9B5B80 — Lipstick (Lipstick)
 Color 3: #4A4A4A — Ngitngit (Dark/Darkness)
 Color 4:  #9B7E5A — Tarsier (Type of marsupial)
 Color 5: #4A7BA8 — Lalom (Deep)
-Color 6: 
+Color 6: #D4B896 — Buhok (Hair)
 Color 7: #F8F5F0 — Panit (Skin)
 Color 8:   #E9DCC8 — Init (Warm)
 
@@ -137,6 +137,10 @@ FOOTER
 SOCIALS
 Icons:  initial: #E9DCC8 — Init (Warm)   Hover:  #E9DCC8 — Init (Warm)
 Icons Background Color:     Initial: #9B7E5A — Tarsier (Type of marsupial)    Hover:  #6B5541 — Chocolate Hills in Summer Season
+
+SIDEBAR
+Design
+Background Color:  #D4B896 — Buhok (Hair)
 
 BLOG POSTS
 Card Options
